@@ -68,7 +68,7 @@ Install pacman if not already installed
  
  In R:
  - library(spacyr)
- - spacy_initialize()
+ - spacy_initialize(model = "en_core_web_sm")
 
  **4. Download the novel**
   
